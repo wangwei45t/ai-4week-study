@@ -1,0 +1,23 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+*.env
+.env
+# data
+*.pdf
+*.txt
+*.md
+faiss_index/
+vector_db/
+# log
+logs/
+*.log
+# docker
+*.dockerignore
+# vscode
+.vscode/
+.idea/
